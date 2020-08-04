@@ -29,7 +29,8 @@
 
 
 ## <div align="center">  </div>
-## <div align="center"> Learning: </div>
+## <div align="center">  </div>
+## <div align="center">Learning:</div>
 
  <img align="left" alt="AWS" width="50px"
  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
