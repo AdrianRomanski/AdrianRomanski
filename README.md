@@ -1,9 +1,11 @@
-### Hi there, 👋 I'm Adrian Romański i love to Code and i love Java! Connect with me on Linkedin: [<img alt="AdrianRomanski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adrianromanski/)
+### Hi there, 👋 I'm Adrian Romański i love to Code and i love Java! Connect with me on Linkedin: [<img alt="AdrianRomanski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adrianromanski/)  
+### Now I'm focusing on mastering Algorithms and DataStructures by reading books and solving coding quizes on HackerRank
+### In free time i would like to do Discord Bot
 
 <img src="https://www.animatiebrouwerij.nl/wp-content/uploads/2018/12/Gif-animatie-laten-maken-gifje-gifjes-giphy-4.gif" width="1200" height="400"/>
 
 
- ### Skills:
+## <div align="center"> Skills: </div>
  
 <img align="left" alt="Java" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
 />
@@ -26,7 +28,8 @@
 
 
 
-###  Learning:
+## <div align="center">  </div>
+## <div align="center"> Learning: </div>
 
  <img align="left" alt="AWS" width="50px"
  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
