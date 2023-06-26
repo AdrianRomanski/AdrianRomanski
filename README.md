@@ -23,3 +23,5 @@ Feel free to reach out via email, linkedin or connect with me on GitHub. I'm exc
 Happy coding,
 Adrian
 
+![](https://komarev.com/ghpvc/?username=AdrianRomanski)
+
